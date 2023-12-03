@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joshua Mason
-- 👀 I’m interested in cybersecurity and data science
-- 🌱 I’m currently studying Computer Science and Economics
+- 👀 I’m interested in software engineering and data science
+- 🌱 I’m currently working on my Masters of Computer Science
 - 📫 How to reach me: joshuam1008@gmail.com
 
 <!---
