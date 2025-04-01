@@ -1,12 +1,12 @@
 Joshua Mason
 
 Work
-- TR Labs Intern
+- TR Labs: Applied Scientist I
 - Email: joshua.mason@thomsonreuters.com
 
 Personal
 - Data Science / Software Engineering
-- Current masters of computer science student at NCSU
+- NCSU | Park Scholar Alumnus
 - Email: joshuam1008@gmail.com
 
 <!---
